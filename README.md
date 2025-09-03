@@ -1,7 +1,5 @@
-## Hi, I'm nere531
+# Hi, I'm nere531 / r2iz 👋
 
-I'm a 16-year-old student at Seiko Gakuin with an interest in web development, AI, and low-level programming.
-
-### Projects
-
-I share my work here as I learn and experiment. Thanks for visiting!
+- 🎓 16 years old, student at Seiko Gakuin 
+- ⚙️ Interested in **compilers** (especially JIT) and **computer networks**  
+- 🛠️ Upcoming Head of Technology at the 67th Seiko Festival
